@@ -4,3 +4,9 @@
 
 ## Kinda like GDB but simpiler.
 
+
+### Single Stepping
+Use ``ss`` command.
+Usage: ``ss n`` where n is the amount
+of steps.
+
